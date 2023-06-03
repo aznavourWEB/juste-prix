@@ -26,8 +26,7 @@ Fonctionnalités
 
 ## Installation
 
-    Clonez ce dépôt GitHub : [lien du dépôt]
-    Accédez au répertoire du jeu du Juste Prix.
+    Clonez ce dépôt GitHub 
     Exécutez le fichier juste_prix.py à l'aide de Python 3. `python juste_prix.py`
 
 Maintenant, vous pouvez profiter du jeu du Juste Prix et tester vos compétences pour deviner le bon nombre !
